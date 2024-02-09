@@ -1,0 +1,7 @@
+.card-img-top {
+    height: 500px;
+    object-fit: cover; /* Pour s'assurer que l'image est entièrement contenue dans les dimensions spécifiées */
+}
+.bg-black {
+    background-color: #000000; /* Couleur noire */
+}
